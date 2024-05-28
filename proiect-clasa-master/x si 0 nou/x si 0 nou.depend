@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1716225210 source:d:\x si zeroo\x si 0 nou\main.cpp
+	<iostream>
+	"afisare.h"
+	<conio.h>
+	<windows.h>
+
+1716225236 d:\x si zeroo\x si 0 nou\afisare.h
+
+1716878040 source:c:\users\elev\desktop\proiect-clasa-master\x si 0 nou\main.cpp
+	<iostream>
+	"afisare.h"
+	<conio.h>
+	<windows.h>
+	"verificare castigator.h"
+
+1716878133 c:\users\elev\desktop\proiect-clasa-master\x si 0 nou\afisare.h
+
+1716232249 c:\users\elev\desktop\proiect-clasa-master\x si 0 nou\verificare castigator.h
+
